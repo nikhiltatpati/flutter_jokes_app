@@ -1,6 +1,9 @@
 # jokes_app
 
-A new Flutter application.
+Flutter app that fetches jokes from jokes api
+
+The jokes are fetched from official_joke_api https://github.com/15Dkatz/official_joke_api
+
 
 ## Getting Started
 
